@@ -2,4 +2,4 @@
 
 
     using ML method trained model and using Render deploy it.
-    [text](https://flight-fare-pridiction-flask-ml.onrender.com/)
+    link :https://flight-fare-pridiction-flask-ml.onrender.com
